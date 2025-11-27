@@ -38,6 +38,7 @@ body{
 .sidebar:hover{
     width:200px;
 }
+/* ul stands for unordered list */
 ul{
     list-style-type: none;
     padding: 0;
